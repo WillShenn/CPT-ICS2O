@@ -30,7 +30,7 @@ The topic must be cleared by Mr. Gallo before you continue. You will be required
 ### Storyboard
 Come up with some hand-drawn sketches of various screens of your program. i.e., menus, the game as it is played.
 
-###Repo-Project Setup
+### Repo-Project Setup
 Your group is to setup a repository project with the following columns:
 - To Do
   - Select the “To Do” preset and check the boxes for both “Move all newly added issues and pull requests here” and “Move all reopened issues and pull requests here”
