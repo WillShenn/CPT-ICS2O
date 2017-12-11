@@ -3,11 +3,11 @@
 This is a culminating task in which students are required to demonstrate overall mastery of the course content and expectations. Students apply knowledge and skills in problem solving, programming, hardware, and networking, and demonstrate the ability to design, create, test, and debug computer programs.   
 
 Most students choose to create a video game, but you may create a program that performs some useful task. Some suggestions:
-- Cafeteria ordering app. 
+- Cafeteria ordering app
 - Calorie counting app 
-- Mathematical Quiz game. 
-- Tic-Tac-Toe.
-- Function Graphing.
+- Mathematical Quiz game
+- Tic-Tac-Toe
+- Function Graphing
 - Personal Finance App
 - Trivia Game
 - Stock Market Portfolio
