@@ -1,6 +1,8 @@
 ICS2O1 CPT Rubric
 
-**Name(s):****Topic Name:** **Program Features:**
+**Name(s):**
+**Topic Name:** 
+**Program Features:**
 
 <table>
   <tr>
@@ -22,14 +24,16 @@ Week 4</td>
 /5</td>
   </tr>
   <tr>
-    <td>Good Coding Practices(Know.)</td>
+    <td>Good Coding Practices
+(Know.)</td>
     <td>Meaningful variable names 
 PEP8 Compliance 
 Internal Documentation (Comments)</td>
     <td>/ 15</td>
   </tr>
   <tr>
-    <td>Concepts(Know.)</td>
+    <td>Concepts
+(Know.)</td>
     <td>Outline concepts used in program
 Decision Statements (if-elif-else)
 Loops  
@@ -38,20 +42,23 @@ Demonstrates understanding of multiple concepts </td>
     <td>/ 20</td>
   </tr>
   <tr>
-    <td>Stable Program(App.)</td>
+    <td>Stable Program
+(App.)</td>
     <td>Program does not crash
 Error Proof (Both Logic and Syntax)</td>
     <td>/ 10</td>
   </tr>
   <tr>
-    <td>User Friendly Program(App.)</td>
+    <td>User Friendly Program
+(App.)</td>
     <td>Application is easy to understand 
 How to use software is described clearly 
 User is not confused on what next to do </td>
     <td>/ 10</td>
   </tr>
   <tr>
-    <td>Game Appeal(App.)</td>
+    <td>Game Appeal
+(App.)</td>
     <td>Application has quality appearance 
 Quality visual graphics </td>
     <td>/ 10</td>
