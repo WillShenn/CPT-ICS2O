@@ -13,24 +13,24 @@ Most students choose to create a video game, but you may create a program that p
 - Stock Market Portfolio
 
 ## General Requirements
-### Constant uploading to GitHub
+#### Constant uploading to GitHub
 Each member is required to post detailed commits on GitHub on a daily basis, after each small (successful) change. Remember, it is preferable that you edit the code from the GitHub editor, rather than dragging the file constantly to the window. When you edit and paste in your code, it keeps better track of the changes that were made.
 *Each commit/upload must be [PEP8 compliant](http://pep8online.com/).*
 
-### Issues
+#### Issues
 Occasionally, you will have some issues, please create an issue from your repository and assign it to a project.
 
 ## Deliverable #1
-### Topic Proposal
+#### Topic Proposal
 By the midpoint of the second day, you should have a good idea of what type of program you want to create.
 
 The topic must be cleared by Mr. Gallo before you continue. You will be required to come and pitch the idea to me in person. Be prepared to answer questions about what types of features (generally) your program will have. Fill out the appropriate form and then see me at any point during the first two days.
 
 ## Deliverable #2
-### Storyboard
+#### Storyboard
 Come up with some hand-drawn sketches of various screens of your program. i.e., menus, the game as it is played.
 
-### Repo-Project Setup
+#### Repo-Project Setup
 Your group is to setup a repository project with the following columns:
 - To Do
   - Select the “To Do” preset and check the boxes for both “Move all newly added issues and pull requests here” and “Move all reopened issues and pull requests here”
